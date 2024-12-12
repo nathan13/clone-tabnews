@@ -1,2 +1,2 @@
 # clone-tabnews
-Learning
+Learning.
